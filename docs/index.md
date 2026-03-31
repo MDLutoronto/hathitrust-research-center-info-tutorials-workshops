@@ -3,6 +3,12 @@ title: "HathiTrust Research Center: Information, Tutorials, and Workshops"
 layout: "home"
 description: "The HathiTrust Research Center (HTRC) is the research arm of HathiTrust. It develops tools and resources that enable text or computational analysis of the HathiTrust corpus. This corpus or digital library includes over 10 million volumes (mostly books and journals), 3 million of which are in the public domain. It covers 400 languages and publication dates from 1500 to the present day, representing a broad variety of subjects."
 created_date: 2022-05-09
+staff:
+    - name: Kara Handren
+      link: https://library.utoronto.ca/staff/kara-handren
+maintainer:
+    - name: Kara Handren
+      link: https://library.utoronto.ca/staff/kara-handren
 permalink: "/"  #! Remove this if not the homepage
 ---
 
